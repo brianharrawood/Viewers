@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.3-alpha.0](https://github.com/OHIF/Viewers/compare/@ohif/extension-lesion-tracker@0.2.2...@ohif/extension-lesion-tracker@0.2.3-alpha.0) (2022-08-18)
+
+**Note:** Version bump only for package @ohif/extension-lesion-tracker
+
+
+
+
+
 ## [0.2.2](https://github.com/OHIF/Viewers/compare/@ohif/extension-lesion-tracker@0.2.1...@ohif/extension-lesion-tracker@0.2.2) (2022-06-29)
 
 **Note:** Version bump only for package @ohif/extension-lesion-tracker
